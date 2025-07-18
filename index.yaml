@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  liferay-k8s-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-18T10:22:11.161224962-04:00"
+    description: Helm umbrella repo for deploying Liferay, MySQL & ElasticSearch to
+      Kubernetes
+    digest: 8792540a8ba12cb0cbd3971c7bec6363586eb2113c39f7af6eafa4dccc4d3daf
+    name: liferay-k8s-helm
+    type: application
+    urls:
+    - https://logasundaram-techavidity.github.io/k8s-cluster/liferay-k8s-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-18T10:22:11.157158948-04:00"
